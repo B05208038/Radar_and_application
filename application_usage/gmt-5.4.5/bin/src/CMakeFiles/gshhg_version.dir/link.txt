@@ -1,0 +1,1 @@
+/usr/bin/cc -std=gnu99  -O3 -DNDEBUG  -rdynamic CMakeFiles/gshhg_version.dir/gshhg_version.c.o  -o gshhg_version -Wl,-rpath,/usr/lib/x86_64-linux-gnu/hdf5/serial -lnetcdf /usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5_hl.so /usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so -lpthread -lsz -lz -ldl -lm -lcurl 

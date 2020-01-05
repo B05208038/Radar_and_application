@@ -1,0 +1,1 @@
+/usr/bin/cc -std=gnu99  -O3 -DNDEBUG  -rdynamic CMakeFiles/psldemo.dir/psldemo.c.o  -o psldemo -Wl,-rpath,/mnt/d/GitLab_folder/Radar_and_application/application_usage/gmt-5.4.5/bin/src libpostscriptlight.so.5.4.5 -lm -lz -ldl 

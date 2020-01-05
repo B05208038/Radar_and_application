@@ -1,0 +1,1 @@
+/usr/bin/cc -std=gnu99  -O3 -DNDEBUG  -rdynamic CMakeFiles/pthreads_example.dir/pthreads_example.c.o  -o pthreads_example -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -std=gnu99  -O3 -DNDEBUG  -shared -Wl,-soname,libpostscriptlight.so.5 -o libpostscriptlight.so.5.4.5 CMakeFiles/pslib.dir/postscriptlight.c.o -Wl,-rpath,::::::::::::::::::::::::: -lm -lz -ldl 

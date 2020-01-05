@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/GitLab_folder/Radar_and_application/application_usage/gmt-5.4.5/src/pthreads_example.c
+pthread.h
+-
+stdio.h
+-
+

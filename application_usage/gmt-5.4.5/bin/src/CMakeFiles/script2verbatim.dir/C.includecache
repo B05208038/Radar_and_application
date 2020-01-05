@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/GitLab_folder/Radar_and_application/application_usage/gmt-5.4.5/src/script2verbatim.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/GitLab_folder/Radar_and_application/application_usage/gmt-5.4.5/src/declspec.h
+
+/mnt/d/GitLab_folder/Radar_and_application/application_usage/gmt-5.4.5/src/gshhg_version.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+netcdf.h
+-
+gshhg_version.h
+/mnt/d/GitLab_folder/Radar_and_application/application_usage/gmt-5.4.5/src/gshhg_version.h
+
+/mnt/d/GitLab_folder/Radar_and_application/application_usage/gmt-5.4.5/src/gshhg_version.h
+gmt_config.h
+/mnt/d/GitLab_folder/Radar_and_application/application_usage/gmt-5.4.5/src/gmt_config.h
+declspec.h
+/mnt/d/GitLab_folder/Radar_and_application/application_usage/gmt-5.4.5/src/declspec.h
+
+src/config.h
+
+src/gmt_config.h
+config.h
+src/config.h
+

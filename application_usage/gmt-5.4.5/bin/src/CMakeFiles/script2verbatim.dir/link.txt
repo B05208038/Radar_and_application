@@ -1,0 +1,1 @@
+/usr/bin/cc -std=gnu99  -O3 -DNDEBUG  -rdynamic CMakeFiles/script2verbatim.dir/script2verbatim.c.o  -o script2verbatim 
